@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    margin-top: 0%;
+}
+body{font-family: 'Bebas Neue', cursive; color: whitesmoke
+}
+
+
+
+body{
+    background-color: black;
+}
+
+
+div{
+    color: black;
+}
+
+#separator-cards{
+    width: 100%;
+    overflow: hidden;
+    position:relative
+    z-index: 2;
+}
+
+#separator-cards .content{
+    width: 75%;
+    height: 70Px;
+    margin-left: -25%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+
+h2{
+    font-style: 1px;
+}
+
